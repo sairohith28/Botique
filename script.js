@@ -309,7 +309,7 @@ function searchItems(query) {
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Botique website loaded successfully');
+    console.log('Lotus Fashion Designer Botique website loaded successfully');
     
     // Add parallax effect to hero section
     window.addEventListener('scroll', () => {

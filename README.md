@@ -1,6 +1,6 @@
-# Botique - Premium Fashion & Custom Tailoring Website
+# Lotus Fashion Designer Botique - Premium Fashion & Custom Tailoring Website
 
-A beautiful, minimal, and SEO-optimized website for a boutique offering custom fashion designs with pickup and delivery services.
+A beautiful, minimal, and SEO-optimized website for Lotus Fashion Designer Botique offering custom fashion designs with pickup and delivery services in Vengal Rao Nagar, Madhura Nagar.
 
 ## Features
 
@@ -162,4 +162,13 @@ For questions or customization help, please contact your web developer.
 
 ---
 
-**Made with ❤️ for Botique - Where Elegance Meets Convenience**
+**Made with ❤️ for Lotus Fashion Designer Botique - Where Elegance Meets Convenience**
+
+## Contact Information
+
+- **Address**: Vengal Rao Nagar, Near Ayyapa Ground, Madhura Nagar - 500038
+- **Phone**: +91 9440920192
+- **Email**: jvsantosh336@gmail.com
+- **Hours**: Monday - Sunday: 9:00 AM - 9:00 PM
+- **Instagram**: [@lotus_fashion_designers](https://www.instagram.com/lotus_fashion_designers?igsh=aHViejdteGh2NWd4)
+- **Location**: [View on Google Maps](https://maps.app.goo.gl/LxgoaXxpKi5roQjd7)
